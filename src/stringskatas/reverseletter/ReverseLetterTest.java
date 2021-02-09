@@ -1,8 +1,8 @@
-package stringskatastest;
+package stringskatas.reverseletter;
 
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
-import stringskatas.ReverseLetter;
 
 public class ReverseLetterTest {
     @Test
