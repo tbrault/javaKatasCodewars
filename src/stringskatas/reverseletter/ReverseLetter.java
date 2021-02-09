@@ -1,4 +1,4 @@
-package stringskatas;
+package stringskatas.reverseletter;
 
 public class ReverseLetter {
     public static String reverseLetter(final String str) {

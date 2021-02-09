@@ -1,4 +1,4 @@
-package stringskatas;
+package stringskatas.vowelcount;
 
 public class VowelCount {
 	public static int getCount(String stringToReplace) {

@@ -1,12 +1,10 @@
-package stringskatastest;
+package stringskatas.vowelcount;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import stringskatas.VowelCount;
-
-class VowelCounstTest {
+class VowelCountTest {
 
 	@Test
 	void test() {

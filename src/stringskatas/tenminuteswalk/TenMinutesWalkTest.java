@@ -1,8 +1,6 @@
-package stringskatastest;
+package stringskatas.tenminuteswalk;
 
 import org.junit.Test;
-
-import stringskatas.TenMinutesWalk;
 
 import static org.junit.Assert.assertEquals;
 

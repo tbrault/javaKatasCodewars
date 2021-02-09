@@ -1,4 +1,4 @@
-package stringskatas;
+package stringskatas.tenminuteswalk;
 
 public class TenMinutesWalk {
 	private static int currentYPosition = 0;
